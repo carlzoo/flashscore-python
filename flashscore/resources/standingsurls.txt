@@ -1,0 +1,4 @@
+ITALY:Serie A|http://www.flashscore.com/soccer/italy/serie-a/standings/
+ENGLAND:Premier League|http://www.flashscore.com/soccer/england/premier-league/standings/
+BRAZIL:Série A|http://www.flashscore.com/soccer/brazil/serie-a/standings/
+CANADA:CSL|http://www.flashscore.com/soccer/canada/csl/standings/
